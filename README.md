@@ -48,8 +48,8 @@ Younger passengers had better survival odds
 
 Strong correlations observed between Pclass, Fare, and Survival
 
-🤝 Acknowledgement This project was completed as part of the Prodigy InfoTech Data Science Internship.
-
 Age distribution
 
 Identified insights related to survival trends
+
+🤝 Acknowledgement This project was completed as part of the Prodigy InfoTech Data Science Internship.
