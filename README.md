@@ -27,8 +27,6 @@ Python
 
 Pandas
 
-NumPy
-
 Matplotlib
 
 Seaborn
